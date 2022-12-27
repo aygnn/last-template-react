@@ -1,0 +1,43 @@
+#navbarScroll{
+  
+  margin-left: 41% !important;
+}
+.nav-link{
+
+  color: rgba(255, 255, 255, 0.55) !important; 
+}
+#start{
+  margin-left: 10%;
+  color: white;
+}
+.Navbar{
+  background-color: #212529 !important;
+
+}
+.about{
+  color: rgba(255, 255, 255, 0.55) !important;
+  
+}
+a{
+  text-decoration: none !important;
+
+}
+footer{
+  background-color: #212529;
+  color: white;
+  margin-top: 5%;
+  height: 72px;
+}
+.foot{
+  margin-top: 21px !important;
+  margin-left: 1% !important;
+  
+  
+}
+.span{
+  background: #212529 !important;
+}
+.hello{
+  margin-right: 59%;
+}
+

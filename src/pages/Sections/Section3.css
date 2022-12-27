@@ -1,0 +1,54 @@
+.metn p{
+    width: 45%;
+    color: #6c757d ;
+    text-align: center;
+    font-weight: 400 ;
+    margin-bottom: 3rem;
+    font-size: 1.25rem;
+}
+.metn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+}
+.metn h2{
+    font-weight: bolder ;
+}
+.news{
+    position: relative;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 12px;
+    background: #0d6efd;
+    
+    color: white;
+}
+
+.news:hover{
+    color: white;
+}
+.card-footer{
+    display: flex;
+    border-top: 0;
+    background-color: white !important;
+}
+.cardimg{
+    border-radius: 50%;
+    width: 43px;
+    margin-right: 19px;
+}
+.small{
+    font-weight: 700
+}
+.muted{
+    color: #6c757d
+}
+.Title{
+    margin-top: 21px;
+
+}
+.Text{
+    line-height: 27px;
+    width: 92%;
+
+}

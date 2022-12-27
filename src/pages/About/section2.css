@@ -1,0 +1,36 @@
+.conteynir{
+    background-color: #f8f9fa;
+    display: flex;
+    margin-bottom: -6%;
+}
+.textcenter{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 6%;
+
+} 
+.salam{
+    margin-bottom: 4%;
+}
+.textcenter p{
+    color: #6c757d ;
+    font-weight: 400 ;
+    margin-bottom: 3rem;
+    
+    font-size: 1.25rem;
+
+}
+.kartlar img{
+    
+    border-radius: 50%;
+}
+.kartlar{
+    display: flex;
+}
+.div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

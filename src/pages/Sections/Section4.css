@@ -1,0 +1,36 @@
+.input{
+    width: 350px;
+}
+aside{
+  
+    margin-left: 8%;
+    height: 163px;
+    margin-top: 4%;
+    border-radius: 0.3rem;
+    width: 1224px;
+    background-color: rgb(13, 110, 253);
+    background: linear-gradient(180deg, rgba(15,123,232), rgba(13,94,263));
+    color: white;
+}
+.products{
+    font-size: 1.75rem;
+    font-weight: 700;
+}
+.smallpro{
+    color: rgba(255, 255, 255, 0.5)
+}
+.inputcol{
+    margin-top: 53px;
+    margin-left: 47px
+}
+.smallpro{
+    font-size: 0.875em;
+}
+.inputs{
+    margin-left: 88px;
+}
+span{
+    background-color: rgb(13, 110, 253);
+    background: linear-gradient(180deg, rgba(15,123,232), rgba(13,94,263));
+    color: white !important;
+}

@@ -1,0 +1,28 @@
+.h2{
+    font-weight: bolder;
+    font-size: calc(1.325rem + 0.9vw);
+    line-height: 1.2;
+}
+h5{
+    font-size: 1.25rem;
+}
+.a{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 1.5rem;
+    background-color: #287efd;
+    border-radius: 0.3rem;
+}
+svg{
+    
+    color: white;
+}
+.coll{
+    margin-top: 5%;
+}
+.row1{
+    margin-bottom: 7%;
+}

@@ -1,0 +1,20 @@
+.birinci{
+    background-color: #f8f9fa;
+}
+.basliq1 p{
+        font-weight: 400 ;
+        color: #6c757d;
+        font-size: 1.25rem;
+
+}
+.basliq1 h2{
+        font-weight: bolder;
+
+}
+.basliq1{
+        margin-top: 20%;
+}
+
+.ikinci{
+    background-color: white !important;
+}
