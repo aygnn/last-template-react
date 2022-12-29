@@ -8,6 +8,7 @@ import InputGroup from 'react-bootstrap/InputGroup';
 export default function Section4() {
   return (
     <>
+      <div className='aside'>
     <aside>  <Container>
       <Row>
         <Col className='inputcol'>
@@ -30,6 +31,7 @@ export default function Section4() {
 
       </Row>
     </Container>
-        </aside></>
+        </aside>
+    </div></>
   )
 }
