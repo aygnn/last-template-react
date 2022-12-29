@@ -7,7 +7,7 @@ import Card from 'react-bootstrap/Card';
 
 export default function Section3() {
   return (
-   <> <Container>
+   <> <Container className='lacasa'>
    <Row >
      <Col className='blog'>
         <div className='metn'>
@@ -18,9 +18,9 @@ export default function Section3() {
    </Row>
 
    
-   <Row >
+   <Row className='cartlar' >
     <Col className='colls'>
-     <Card style={{ width: '375px', height:'501px' ,boxShadow:' 0px 2px 34px -19px'}}>
+     <Card style={{  height:'501px' ,boxShadow:' 0px 2px 34px -19px'}}>
       <Card.Img variant="top" src="https://dummyimage.com/600x350/ced4da/6c757d" />
       <Card.Body>
      <span> <a className='news' href='#'>News</a></span>
@@ -42,7 +42,7 @@ export default function Section3() {
      
      
      <Col className='colls'>
-     <Card style={{ width: '375px', height:'501px',boxShadow:' 0px 2px 34px -19px' }}>
+     <Card style={{height:'501px',boxShadow:' 0px 2px 34px -19px' }}>
       <Card.Img variant="top" src="https://dummyimage.com/600x350/adb5bd/495057" />
       <Card.Body>
         <span><a className='news'  href='#'>Media</a></span>
@@ -64,7 +64,7 @@ export default function Section3() {
 
 
      <Col className='colls'>
-     <Card style={{ width: '375px' , height:'501px',boxShadow:' 0px 2px 34px -19px'}}>
+     <Card style={{  height:'501px',boxShadow:' 0px 2px 34px -19px'}}>
       <Card.Img variant="top" src="https://dummyimage.com/600x350/6c757d/343a40" />
       <Card.Body>
       <span><a className='news' href='#'>News</a></span>
