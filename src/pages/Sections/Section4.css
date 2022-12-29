@@ -1,9 +1,12 @@
 .input{
     width: 350px;
 }
+.aside{
+    display: flex;
+    justify-content: center;
+}
 aside{
   
-    margin-left: 8%;
     height: 163px;
     margin-top: 4%;
     border-radius: 0.3rem;
